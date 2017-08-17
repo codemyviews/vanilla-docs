@@ -6,7 +6,5 @@ Features
    configuration
    logging
    querying
-
-
-Blade
-ErrorHandling
+   blade
+   errors
