@@ -10,7 +10,7 @@ Welcome to Vanilla's documentation!
    :caption: Contents:
    :maxdepth: 2
 
-   installation
+   getting-started
    console
    entities
    features
